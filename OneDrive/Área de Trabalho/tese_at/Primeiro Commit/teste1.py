@@ -106,6 +106,7 @@ if (input_button_submit):
 text = st.text ( '''Possibilidades de classificação, considerando o nível ótimo de práticas tributárias
 pela perspectiva do desempenho corporativo:
     
+    
     Práticas tributárias muito conservadoras;
     Práticas tributárias conservadoras;
     Práticas tributárias agressivas e
