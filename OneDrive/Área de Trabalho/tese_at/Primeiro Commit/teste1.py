@@ -107,6 +107,7 @@ text = st.text ( '''Possibilidades de classificação, considerando o nível ót
 pela perspectiva do desempenho corporativo:
     
     
+    
     Práticas tributárias muito conservadoras;
     Práticas tributárias conservadoras;
     Práticas tributárias agressivas e
