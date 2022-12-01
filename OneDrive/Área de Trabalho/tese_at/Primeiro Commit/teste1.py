@@ -103,6 +103,9 @@ if (input_button_submit):
         st.write ("Práticas tributárias muito agressivas") 
     
  
+
+
+
 text = st.text ( '''Possibilidades de classificação, considerando o nível ótimo de práticas tributárias
 pela perspectiva do desempenho corporativo:
     
