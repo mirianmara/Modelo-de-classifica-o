@@ -94,13 +94,13 @@ if (input_button_submit):
     y_pred = ann1.predict(x_test)
     y_pred_arg = np.argmax(y_pred, axis=1)
     if (y_pred_arg == 1):
-        st.write ("Práticas tributárias muito conservadoras")
+        st.write ("**Práticas tributárias muito conservadoras**")
     elif (y_pred_arg == 2):
-        st.write ("Práticas tributárias conservadoras")
+        st.write ("**Práticas tributárias conservadoras**")
     elif (y_pred_arg == 3):
-        st.write ("Práticas tributárias agressivas")
+        st.write ("**Práticas tributárias agressivas**")
     else:
-        st.write ("Práticas tributárias muito agressivas")
+        st.write ("**Práticas tributárias muito agressivas**")
         
 
 text = st.text ( '''Possibilidades de classificação, considerando o nível ótimo de práticas tributárias
